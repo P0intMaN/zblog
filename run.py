@@ -1,3 +1,3 @@
 from zblog import app
 
-app.run(debug=True) # disable this when we deploy it into production
+app.run(debug=True) # disable this when deployed into production.
